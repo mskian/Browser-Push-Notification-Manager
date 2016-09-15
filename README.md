@@ -2,6 +2,8 @@
 Display web Browser Push Notifications in Chroma and Mozilla
 
 Developed By SRINIVAS TAMADA (9lessons.info)
+Wordpress plugin by Santhoshveer (mskian.com)
+
 
 <img src="https://raw.githubusercontent.com/mskian/Browser-Push-Notification-Manager/master/web1.jpg"/>
 
@@ -12,6 +14,7 @@ Developed By SRINIVAS TAMADA (9lessons.info)
 <h2>How to Install this we push Notification on Wordpress website?</h2>
 
 <img src="https://raw.githubusercontent.com/mskian/Browser-Push-Notification-Manager/master/web2.jpg"/>
+
 
 - Download the Plugin Package here
 - Upload the plugin in your Wordpress plugin Directory and activate it
