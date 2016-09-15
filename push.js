@@ -56,7 +56,7 @@ Notification.requestPermission();
 }
 else {
 var notification = new Notification(title, {
-icon:'Your Notification ICON URL', //replace with your Notification URL
+icon:'Your Notification ICON URL', //replace it with your Notification ICON URL
 body: desc,
 });
 
