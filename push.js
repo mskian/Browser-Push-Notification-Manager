@@ -53,7 +53,7 @@ Notification.requestPermission();
 }
 else {
 var notification = new Notification(title, {
-icon:'Your ICON URL',
+icon:'Your Notification ICON URL',
 body: desc,
 });
 
