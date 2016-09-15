@@ -43,7 +43,7 @@ var articles = [
 
 - Now search for <b>icon:'Your Notification ICON URL',</b> and  //replace it with your Notification ICON URL
 - check the Full configuration here  - http://www.9lessons.info/2015/11/display-browser-notifications-from-web.html
-- Find this }, 120000);  //calls every 2 minutes  Notification Interval time
+- Find this line on the script <b>}, 150000);  //calls every 2 minutes  Notification Interval time</b>
 
 <pre>
 }, 120000);  //calls every 2 minutes 
