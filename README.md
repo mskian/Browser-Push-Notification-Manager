@@ -49,6 +49,7 @@ var articles = [
 }, 160000);  //calls every 6 minutes 
 }, 170000);  //calls every 7 minutes 
 }, 180000);  //calls every 8 minutes 
+</pre>
 
 You can Update the Push Messages from the Browser Push Notification Manager plugin.(Just Replace the Old Messages)
 
