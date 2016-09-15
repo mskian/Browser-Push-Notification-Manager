@@ -16,8 +16,9 @@ Wordpress plugin by Santhoshveer (mskian.com)
 <img src="https://raw.githubusercontent.com/mskian/Browser-Push-Notification-Manager/master/web2.jpg"/>
 
 
-- Download the Plugin Package here
-- Upload the plugin in your Wordpress plugin Directory and activate it
+- Download the Plugin Package here - https://amsk.in/2cB2EXE
+- Upload the plugin in your Wordpress plugin Directory
+- Install and activate it
 - Now copy the Push Notification JS file from <a href="https://raw.githubusercontent.com/mskian/Browser-Push-Notification-Manager/master/push.js">push.js</a>
 - Now paste the Push Notification code on the Push Notification Manager box plugin (After activate the you can find the admin option in settings Menu tab.)
 - You can manage the Push from the Browser Notification Manager plugin (Specially developed for this web notification application)
