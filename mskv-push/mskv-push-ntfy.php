@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Browser Notification Manager
  * Plugin URI: http://www.9lessons.info/2015/11/display-browser-notifications-from-web.html
- * Description: Display web Browser Push Notifications web Application developed By - SRINIVAS TAMADA (9lessions.info)
+ * Description: Display web Browser Push Notifications.Application developed By - SRINIVAS TAMADA (9lessons.info)
  * Version: 1.0
  * Author: Santhosh veer
  * Author URI: https://santhoshveer.com
