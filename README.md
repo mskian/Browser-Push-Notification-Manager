@@ -1,4 +1,4 @@
-# Browser-Push-Notification-Manager
+# Browser Push Notification Manager
 Display web Browser Push Notifications in Chroma and Mozilla
 
 Developed By SRINIVAS TAMADA (9lessons.info)
@@ -9,7 +9,7 @@ Developed By SRINIVAS TAMADA (9lessons.info)
 - Work in Both HTTPS/HTTP Connections
 - Free Plugin 
 
-How to Install this we push Notification on Wordpress website?
+<h2>How to Install this we push Notification on Wordpress website?</h2>
 
 <img src="https://raw.githubusercontent.com/mskian/Browser-Push-Notification-Manager/master/web2.jpg"/>
 
@@ -20,7 +20,7 @@ How to Install this we push Notification on Wordpress website?
 - You can manage the Push from the Browser Notification Manager plugin (Specially developed for this web notification application)
 - That's all
 
-Custamization
+<h3>Custamization</h3>
 
 - Add your Post title and Message for Push Notification Find this codes on the script
  <pre>//Replace YOUR TITLE and YOUR LINK with your Post title and post link
@@ -39,5 +39,19 @@ var articles = [
 
 - Now search for <b>icon:'Your Notification ICON URL',</b> and  //replace it with your Notification ICON URL
 - check the Full configuration here  - http://www.9lessons.info/2015/11/display-browser-notifications-from-web.html
+- Find this }, 120000);  //calls every 2 minutes  Notification Interval time
 
-You can Update the Push updates from the Browser Push Notification Manager plugin
+<pre>
+}, 120000);  //calls every 2 minutes 
+}, 130000);  //calls every 3 minutes 
+}, 140000);  //calls every 4 minutes 
+}, 150000);  //calls every 5 minutes  (recommended interval time)
+}, 160000);  //calls every 6 minutes 
+}, 170000);  //calls every 7 minutes 
+}, 180000);  //calls every 8 minutes 
+
+You can Update the Push Messages from the Browser Push Notification Manager plugin.(Just Replace the Old Messages)
+
+<h4>From the Editor's desk</h4>
+
+- Your visitor receive the Push Notifications when they enter into your website.
