@@ -20,7 +20,7 @@ var title=articles[x][0];
 var desc='Most popular article.';
 var url=articles[x][1];
 notifyBrowser(title,desc,url);
-}, 120000);  //calls every 2 minutes 
+}, 150000);  //calls every 5 minutes 
 
 
 
